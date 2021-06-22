@@ -1,0 +1,10 @@
+{
+    "files.autoGuessEncoding": true,
+    "emmet.syntaxProfiles": {
+
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
